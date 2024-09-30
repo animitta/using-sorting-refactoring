@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingSortingRefactoring", "UsingSortingRefactoring\UsingSortingRefactoring.csproj", "{1A80CE20-3EC1-4BB5-9A1A-0A8C339841A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingSortingRefactoring.Vsix", "UsingSortingRefactoring.Vsix\UsingSortingRefactoring.Vsix.csproj", "{9F6CAF25-4A2D-4E9C-9112-3B7CACA24AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A80CE20-3EC1-4BB5-9A1A-0A8C339841A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A80CE20-3EC1-4BB5-9A1A-0A8C339841A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A80CE20-3EC1-4BB5-9A1A-0A8C339841A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A80CE20-3EC1-4BB5-9A1A-0A8C339841A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6CAF25-4A2D-4E9C-9112-3B7CACA24AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6CAF25-4A2D-4E9C-9112-3B7CACA24AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6CAF25-4A2D-4E9C-9112-3B7CACA24AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6CAF25-4A2D-4E9C-9112-3B7CACA24AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEAA5D38-575C-42E8-83E5-B2CD8AA0C332}
+	EndGlobalSection
+EndGlobal
